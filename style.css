@@ -1,0 +1,202 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  margin-top: 2vh;
+
+  gap: 4vh;
+}
+
+/* .menuIconBox {
+  display: flex;
+  align-content: center;
+}
+.menuIcon {
+  width: 8vw;
+} */
+
+.kacIconBox {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+.kacIcon {
+  width: 20vw;
+}
+
+.cartIconBox {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+
+.cartIcon {
+  width: 10vw;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  margin-top: 10vh;
+}
+.showDropButton {
+  font-weight: bold;
+  font-family: "Rajdhani", sans-serif;
+  font-size: 24px;
+}
+
+.rightsBox {
+  margin-top: 10vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.rights1 {
+  text-decoration: line-through;
+  opacity: 100%;
+  font-weight: bold;
+  font-family: "Gruppo", sans-serif;
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+
+  margin: 6px;
+}
+
+.rights2 {
+  text-decoration: line-through;
+  opacity: 90%;
+  font-weight: bold;
+  font-family: "Gruppo", sans-serif;
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+
+  margin: 6px;
+}
+.rights3 {
+  text-decoration: line-through;
+  opacity: 80%;
+  font-weight: bold;
+  font-family: "Gruppo", sans-serif;
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+
+  margin: 6px;
+}
+.rights4 {
+  text-decoration: line-through;
+  opacity: 70%;
+  font-weight: bold;
+  font-family: "Gruppo", sans-serif;
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+
+  margin: 6px;
+}
+.rights5 {
+  text-decoration: line-through;
+  opacity: 60%;
+  font-weight: bold;
+  font-family: "Gruppo", sans-serif;
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+
+  margin: 6px;
+}
+.rights6 {
+  text-decoration: line-through;
+  opacity: 50%;
+  font-weight: bold;
+  font-family: "Gruppo", sans-serif;
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+
+  margin: 6px;
+}
+.rights7 {
+  text-decoration: line-through;
+  opacity: 40%;
+  font-weight: bold;
+  font-family: "Gruppo", sans-serif;
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+
+  margin: 6px;
+}
+.rights8 {
+  text-decoration: line-through;
+  opacity: 30%;
+  font-weight: bold;
+  font-family: "Gruppo", sans-serif;
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+
+  margin: 6px;
+}
+.rights9 {
+  text-decoration: line-through;
+  opacity: 20%;
+  font-weight: bold;
+  font-family: "Gruppo", sans-serif;
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+
+  margin: 6px;
+}
+.rights10 {
+  text-decoration: line-through;
+  opacity: 10%;
+  font-weight: bold;
+  font-family: "Gruppo", sans-serif;
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+
+  margin: 6px;
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 10vh;
+
+  gap: 24px;
+
+  div {
+    display: flex;
+    justify-content: center;
+  }
+
+  span {
+    align-self: center;
+    font-weight: 600;
+    font-family: "QuickSand", sans-serif;
+  }
+}
+
+.brazil {
+  display: flex;
+  gap: 6px;
+
+  span {
+    font-weight: bold;
+    font-family: "QuickSand", sans-serif;
+  }
+}
+
+.brazilIcon {
+  height: 12px;
+  align-self: center;
+}
